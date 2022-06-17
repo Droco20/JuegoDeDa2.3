@@ -2,8 +2,7 @@
 Taller 6 cantera 2.3 - Ejercicio caso práctico de una página dinámica
 
 Juego de dados para múltiples jugadores.
-
-Para iniciar el juego se deben ingresar los jugadores a traves del siguiente enlace:
+1. Request de creación de juego, para iniciar el juego se deben ingresar los jugadores a traves del siguiente enlace:
 POST http://localhost:3000/createGame
 Request de creación de juego, con su respectivo formulario.
 este lleva posteriormente  a mostrar los datos del juego recien creado.
